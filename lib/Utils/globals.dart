@@ -15,8 +15,7 @@ const servizi = "Il lavoro di ECO CAR WASH punta alle cose fatte bene e al "
     "rispetto per l’ambiente, questa è la nostra mission. "
     "Sin nelle attrezzature utilizzate e nel modo in cui i veicoli "
     "dei clienti sono trattati c’è la nostra professionalità. \n";
-const vapore =
-    "Autolavaggio che cura fin nel minimo dettaglio la pulizia interna "
+const vapore = "Autolavaggio che cura fin nel minimo dettaglio la pulizia interna "
     "ed esterna di tutti i veicoli.\nLa tecnologia a vapore permette un consumo "
     "inferiore di acqua e garantisce una pulizia esterna delle superfici di "
     "estrema precisione. Ogni punto vendita ECO CAR WASH assicura una pulizia "
