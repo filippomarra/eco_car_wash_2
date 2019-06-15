@@ -5,8 +5,7 @@ import 'package:flutter/services.dart';
 class Home extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    SystemChrome.setEnabledSystemUIOverlays(
-        []); // Impostazione App Schermo Intero
+    SystemChrome.setEnabledSystemUIOverlays([]); // Impostazione App Schermo Intero
     Size size = MediaQuery.of(context).size; // Dimensioni Schermo
     return Scaffold(
       body: Stack(
